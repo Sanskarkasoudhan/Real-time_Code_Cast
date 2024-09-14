@@ -11,9 +11,9 @@ CodeCast is a real-time code collaboration platform that allows developers to wo
 
 ****Real-Time Synchronization:**** Experience instant updates with live code synchronization across all connected clients. Changes made by one user are immediately reflected to all other participants.
 
-****User Experience:***** Set and display a unique username to identify yourself within the room. Personalize your coding environment with customizable settings.
+****User Experience:**** Set and display a unique username to identify yourself within the room. Personalize your coding environment with customizable settings.
 
-****Code Editor:***** Integrated CodeMirror provides a rich code editing experience with syntax highlighting, code folding, and editor customization options.
+****Code Editor:**** Integrated CodeMirror provides a rich code editing experience with syntax highlighting, code folding, and editor customization options.
 
 ****Seamless Communication:**** Utilize Socket.IO for smooth and efficient real-time communication between clients and the server, ensuring a responsive collaboration experience.
 
